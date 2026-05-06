@@ -1,0 +1,6 @@
+*   be73c5b Merge pull request #1 from lrdaria/feature-bio
+|\  
+| * a52a24c feat: added developer biography to readme
+|/  
+* 51ed107 chore: initial project scaffolding and gitignore
+* dd2d653 Initial commit
